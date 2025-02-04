@@ -275,9 +275,9 @@ Mᴇꜱꜱᴀɢᴇ : <b>{}</b>"""
 <b>🏷 Title</b>: <a href={url}>{title}</a>
 🎭 Genres: {genres}
 📆 Year: <a href={url}/releaseinfo>{year}</a>
-🌟 Rating: <a href={url}/ratings>{rating}</a> / 10 (based on {votes} user ratings.)
+🌟 Rating: <a href={url}/ratings>{rating}</a> / 10 
 
-⏰Result Shown in: {remaining_seconds} <i>seconds</i> 🔥
+⏰Result Shown in: {remaining_seconds} <i>Sec</i> 🔥
 </b>"""
     
 
